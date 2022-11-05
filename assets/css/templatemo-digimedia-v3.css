@@ -1780,7 +1780,7 @@ form#contact:before {
   max-width: 224px;
   position: absolute;
   right: 25px;
-  top: -242px;
+  top: -125px;
 }
 
 form#contact:after {
@@ -1914,7 +1914,8 @@ Footer Style
 */
 
 footer {
-  background-image: url(../images/footer-bg-v3.jpg);
+  /* background-image: url(../images/footer-bg-v3.jpg); */
+  background-color: #1357a6;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
